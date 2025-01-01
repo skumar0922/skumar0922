@@ -1,4 +1,4 @@
-👋 Hello, World! I’m Sharavan Battula, Automation Engineer with a Twist—bridging the gap between software development and testing with over 13 years of experience.
+👋 Hi there! I’m Sharavan Battula, an Automation Engineer with over 13 years of experience. I love connecting the dots between software development and testing to create seamless, efficient processes.
 
 💡 What I Do: 
 
@@ -7,9 +7,9 @@
   • Cloud Explorer: Dipping my toes into DevOps, ensuring testing and deployment feel like a breeze.
 
 ✨ Fun Facts About Me: 
-  • I find beauty in code that tests other code. 
-  • I love turning manual testers into automation ninjas. 
-  • Sometimes, I automate just for fun—because why not? 🚀
+  • I appreciate the elegance of code that tests other code
+  • I enjoy mentoring manual testers and helping them become automation pros.
+  • Sometimes, I automate just for the fun of it—because who doesn’t love a good challenge? 🚀
 
 ⚡ Current Mission: 
   • Exploring AI-driven testing tools to make testing future-proof. 
